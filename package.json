@@ -1,0 +1,9 @@
+{
+  "name": "eka-translation",
+  "version": "1.0.0",
+  "main": "locales/en/translation.json",
+  "files": [
+    "locales"
+  ],
+  "license": "MIT"
+}
